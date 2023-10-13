@@ -9,3 +9,5 @@ Tableau Dashboard link 2-https://public.tableau.com/views/PoliticalJuggernautsLo
 Tableau Dashboard link 3 -https://public.tableau.com/views/PoliticalJuggernautsLokSabha20193/LOKSABHAANALYSIS20193?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Tableau Story link -https://public.tableau.com/shared/WG3BBPBHF?:display_count=n&:origin=viz_share_link
+
+Video Demonstration link- https://drive.google.com/file/d/1JG6ky1ARHtpfO1ruaVSvrGvxErzT2mUI/view?usp=drivesdk
